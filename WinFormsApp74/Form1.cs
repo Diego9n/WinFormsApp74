@@ -16,5 +16,10 @@ namespace WinFormsApp74
         {
             int b;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int c;
+        }
     }
 }
